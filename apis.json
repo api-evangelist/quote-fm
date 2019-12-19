@@ -1,0 +1,64 @@
+{
+    "name": "QUOTE.fm",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1123-quote-fm.jpg",
+    "tags": [
+        "content",
+        "have api",
+        "quotes",
+        "recommendations",
+        "sharing",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/quote-fm\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "QUOTE.fm",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1123-quote-fm.jpg",
+            "humanURL": "http:\/\/quote.fm",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/quote-fm-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/quote.fm\/api\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/QUOTEfmBlog"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/quote.fm\/labs"
+        },
+        {
+            "type": "Email",
+            "url": "contact@quote.fm"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/QUOTEfm"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/quotefm"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/quote.fm"
+        }
+    ]
+}
